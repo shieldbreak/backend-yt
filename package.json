@@ -18,5 +18,8 @@
     "url": "https://github.com/shieldbreak/Yt-backend/issues"
   },
   "homepage": "https://github.com/shieldbreak/Yt-backend#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
